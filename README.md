@@ -1,2 +1,2 @@
 # best-trip-ever
-my first web page
+https://hruspa.github.io/best-trip-ever/
